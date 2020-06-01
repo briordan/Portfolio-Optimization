@@ -6,7 +6,7 @@ Optimize.py is a script I wrote to optimize asset allocation of a stock portfoli
 This was a homework assignment for Georgia Tech's Machine Learning for Trading class.  
 
 Sharpe ratio is a measure of the return of an investment relative to its risk or volatility.  For this
-homework we were given three stocks and asked to find the optimal asset allocation based on
+homework we were given four stocks and asked to find the optimal asset allocation based on
 the Sharpe ratio.
 
 ## Overview of Code
